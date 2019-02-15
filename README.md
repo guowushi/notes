@@ -1,2 +1,2 @@
 # notes
-Study notes
+IT Study Note
